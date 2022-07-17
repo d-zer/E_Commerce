@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387543333359",
+    "project_id": "e-commerce-d983b",
+    "storage_bucket": "e-commerce-d983b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387543333359:android:80d04be60177b632e79e1a",
+        "android_client_info": {
+          "package_name": "com.dozer.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387543333359-mu16rviqgjfd4vvlrnvq2bqah1ji87cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Tx1lMS2udD03ziy6EJFCMmVDSpwDaLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387543333359-mu16rviqgjfd4vvlrnvq2bqah1ji87cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
