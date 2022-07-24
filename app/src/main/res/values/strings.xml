@@ -1,5 +1,48 @@
 <resources>
     <string name="app_name">E Commerce App</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="email_text">E-mail</string>
+    <string name="name_text">Name</string>
+    <string name="password_text">Password</string>
+
+    <!-- LOGIN Page -->
+    <string name="login_title">Login</string>
+    <string name="login_to_forgot_password">Forgot your password?</string>
+    <string name="login_button">LOG-IN</string>
+    <string name="login_to_signup">Don\'t have an account?</string>
+
+    <!-- SIGNUP Page -->
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_to_login">Already have an account?</string>
+    <string name="signup_button">SIGN-UP</string>
+
+    <!-- Forgot Password Page-->
+    <string name="forgot_password_title">Forgot password</string>
+    <string name="forgot_password_description">Please, enter your email address. You will receive a link to create a new password via email.</string>
+    <string name="forgot_password_button">SEND</string>
+
+    <!-- Fragment Home Page -->
+
+
+    <!-- Fragment Shop Page -->
+    <string name="shop_title">Categories</string>
+    <string name="shop_button">VIEW ALL ITEMS</string>
+    <string name="shop_subtitle">Choose category</string>
+
+    <!-- Fragment Bag Page -->
+    <string name="bag_title">My Bag</string>
+    <string name="bag_total_amount_text">Total amount:</string>
+    <string name="bag_button">CHECK OUT</string>
+
+    <!-- Fragment Favorites Page -->
+
+
+    <!-- Fragment Profile Page -->
+    <string name="profile_button">SIGN OUT</string>
+
+    <!-- Success Page -->
+    <string name="success_title">Success!</string>
+    <string name="success_description">Your order will be delivered soon. Thank you for choosing our app!</string>
+    <string name="success_button">CONTINUE SHOPPING</string>
+
 </resources>

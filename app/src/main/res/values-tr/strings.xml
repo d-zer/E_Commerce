@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">E Commerce App</string>
+
+    <string name="email_text">E-posta</string>
+    <string name="name_text">İsim</string>
+    <string name="password_text">Parola</string>
+
+    <!-- LOGIN Page -->
+    <string name="login_title">Giriş</string>
+    <string name="login_to_forgot_password">Parolanızı mı unuttunuz?</string>
+    <string name="login_button">GİRİŞ</string>
+    <string name="login_to_signup">Hesabınız yok mu?</string>
+
+    <!-- SIGNUP Page -->
+    <string name="signup_title">Kayıt</string>
+    <string name="signup_to_login">Zaten hesabınız var mı?</string>
+    <string name="signup_button">KAYIT</string>
+
+    <!-- Forgot Password Page-->
+    <string name="forgot_password_title">Parola Unutma</string>
+    <string name="forgot_password_description">Lütfen e-posta adresinizi giriniz. E-posta yoluyla yeni bir parola oluşturmak için bir bağlantı alacaksınız.</string>
+    <string name="forgot_password_button">GÖNDER</string>
+
+    <!-- Fragment Home Page -->
+
+
+    <!-- Fragment Shop Page -->
+    <string name="shop_title">Kategoriler</string>
+    <string name="shop_button">TÜM ÖĞELERİ GÖR</string>
+    <string name="shop_subtitle">Kategori seç</string>
+
+    <!-- Fragment Bag Page -->
+    <string name="bag_title">Sepetim</string>
+    <string name="bag_total_amount_text">Toplam tutar:</string>
+    <string name="bag_button">ÖDEME</string>
+
+    <!-- Fragment Favorites Page -->
+
+
+    <!-- Fragment Profile Page -->
+    <string name="profile_button">ÇIKIŞ</string>
+
+    <!-- Success Page -->
+    <string name="success_title">Başarılı!</string>
+    <string name="success_description">Siparişiniz yakında teslim edilecektir. Uygulamamızı seçtiğiniz için teşekkür ederiz!</string>
+    <string name="success_button">ALIŞVERİŞE DEVAM</string>
+
+</resources>

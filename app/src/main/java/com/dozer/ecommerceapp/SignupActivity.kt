@@ -152,7 +152,7 @@ class SignupActivity : AppCompatActivity() {
         val name: String = tasarim.editTextSignupName.text.toString()
         val email: String = tasarim.editTextSignupEmail.text.toString()
         val password: String = tasarim.editTextSignupPassword.text.toString()
-
+        /*
         firebaseAuth.createUserWithEmailAndPassword(email,password)
             .addOnCompleteListener { task ->
                 if (task.isSuccessful) {
@@ -160,6 +160,8 @@ class SignupActivity : AppCompatActivity() {
 
                 }
             }
+
+         */
     }
 
 }

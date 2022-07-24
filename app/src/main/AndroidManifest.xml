@@ -20,13 +20,13 @@
             android:name=".SaleProductsActivity"
             android:exported="false" />
         <activity
-            android:name=".ForgotPasswordActivity"
+            android:name=".SignupActivity"
             android:exported="false" />
         <activity
             android:name=".ProductCardActivity"
             android:exported="false" />
         <activity
-            android:name=".SuccessActivity"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".CategoriesActivity"
@@ -38,10 +38,10 @@
             android:name=".MyBagActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ForgotPasswordActivity"
             android:exported="false" />
         <activity
-            android:name=".SignupActivity"
+            android:name=".SuccessActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
