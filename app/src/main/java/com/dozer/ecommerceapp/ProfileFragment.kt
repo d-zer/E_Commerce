@@ -44,7 +44,9 @@ class ProfileFragment : Fragment() {
                 val name = it.child("name").value
                 val email = it.child("email").value
 
-
+                textViewUserID.setText(id.toString())
+                textViewUserEmail.setText(email.toString())
+                textViewUserName.setText(name.toString())
 
             } else {
                 Toast.makeText(this@ProfileFragment.context,"User Doesn't Exist",Toast.LENGTH_SHORT).show()
