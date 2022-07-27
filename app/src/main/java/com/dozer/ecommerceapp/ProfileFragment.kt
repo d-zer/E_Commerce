@@ -40,7 +40,7 @@ class ProfileFragment : Fragment() {
 
             if (it.exists()) {
 
-                val id = it.child("id").value
+                val id = it.child("User UID").value
                 val name = it.child("name").value
                 val email = it.child("email").value
 
