@@ -38,7 +38,8 @@
 
 
     <!-- Fragment Profile Page -->
-    <string name="profile_button">SIGN OUT</string>
+    <string name="profile_button">LOG-OUT</string>
+    <string name="profile_userId">User ID</string>
 
     <!-- Success Page -->
     <string name="success_title">Success!</string>

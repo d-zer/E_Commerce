@@ -3,8 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.dozer.ecommerceapp">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -16,11 +16,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ECommerceApp"
         tools:targetApi="31">
+
         <activity
             android:name=".SaleProductsActivity"
             android:exported="false" />
         <activity
-            android:name=".SignupActivity"
+            android:name=".SuccessActivity"
             android:exported="false" />
         <activity
             android:name=".ProductCardActivity"
@@ -41,7 +42,7 @@
             android:name=".ForgotPasswordActivity"
             android:exported="false" />
         <activity
-            android:name=".SuccessActivity"
+            android:name=".SignupActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

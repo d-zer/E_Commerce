@@ -1,10 +1,7 @@
 package com.dozer.ecommerceapp
-
 import com.google.firebase.database.IgnoreExtraProperties
 
 @IgnoreExtraProperties
-data class Kisiler(var name:String? = "", var email:String? = "", var password:String? = "") {
-
-
+data class User(val userName: String = "", val userEmail: String = "", val userPassword: String = "") {
 
 }
